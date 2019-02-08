@@ -416,7 +416,7 @@ int main()
     cout << endl;
     cout << "1 - Metodo numerico (numeros indicam uma mudanca no indice)" << endl;
     cout << "2 - Metodo alfabetico (letras maiusculas indicam uma mudanca no indice)" << endl;
-    cout << "3 - Metodo periodico (a mudanca ocorre com base em nuneros fixos)" << endl;
+    //cout << "3 - Metodo periodico (a mudanca ocorre com base em nuneros fixos)" << endl;
     cout << endl;
     cout << "O que deseja fazer? ";
     cin >> menu1;
